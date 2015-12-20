@@ -7,7 +7,7 @@
 
 下面是本游戏的游戏画面：
 
-![游戏gif](plane/plane.gif)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/plane.gif)
 
 ##游戏基本功能
 
@@ -28,4 +28,12 @@
 ###qitayinxiao
 本游戏中未使用的音效
 
+##图片
+下面使游戏中的一些截图
 
+![](https://raw.githubusercontent.com/jybhaha/plane/master/plane.gif)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/plane.gif)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/plane.gif)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/plane.gif)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/plane.gif)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/plane.gif)
