@@ -7,7 +7,7 @@
 
 下面是本游戏的游戏画面：
 
-![游戏gif](https://github.com/jybhaha/plane/plane.gif)
+![游戏gif](plane/plane.gif)
 
 ##游戏基本功能
 
