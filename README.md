@@ -32,11 +32,11 @@
 下面使游戏中的一些截图
 
 ###游戏欢迎界面
-![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/1.png)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/1.jpg)
 ###选关界面
-![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/2.png)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/2.jpg)
 ###选择主角飞机
-![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/4.png)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/4.jpg)
 ###游戏进行中
 **左上角为暂停按钮**
 
@@ -48,23 +48,23 @@
 
 **图中心性飘动物是加血道具**
 
-![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/5.png)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/5.jpg)
 
 **图中飘动的是加导弹道具**
 
-![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/6.png)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/6.jpg)
 
 **图中飘动的是加子弹攻击力道具**
 （还有一个未显示道具是增加子弹列数，即可以增加发射子弹数）
 
-![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/7.png)
-![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/8.png)
-![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/9.png)
-![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/10.png)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/7.jpg)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/8.jpg)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/9.jpg)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/10.jpg)
 
 **结束画面**
 
-![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/11.png)
+![](https://raw.githubusercontent.com/jybhaha/plane/master/photos/11.jpg)
 
 **如果喜欢请star一下！！！！**
 
