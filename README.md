@@ -5,7 +5,7 @@
 本游戏主要是以**Cocos2d-x**为游戏引擎，以**C++**高级程序语言为编程语言，在**Windows 8.1**操作系统下使用**Microsoft Visual Studio 2013**、Eclipse等工具开发并最终移植到Android手机平台上。
 
 
-下面是本游戏的游戏画面：
+下面是本游戏的游戏画面(动态图)：
 
 ![](https://raw.githubusercontent.com/jybhaha/plane/master/plane.gif)
 
